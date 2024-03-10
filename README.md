@@ -1,7 +1,7 @@
 # odin-recipes
 
-Description
+Description: 
 Creating a recipe website to practice HTML skills
 
-Skills Learned and Practiced
+Skills Learned and Practiced: 
 HTML
